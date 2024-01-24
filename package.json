@@ -1,0 +1,19 @@
+{
+  "name": "@arfajarsetiaji/style-guide",
+  "version": "0.0.1",
+  "description": "Ar Fajar Setiaji's opinionated code style guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arfajarsetiaji/style-guide.git"
+  },
+  "author": "https://github.com/arfajarsetiaji",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/arfajarsetiaji/style-guide/issues"
+  },
+  "homepage": "https://github.com/arfajarsetiaji/style-guide#readme"
+}
